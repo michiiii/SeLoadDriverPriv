@@ -3,8 +3,8 @@ Some stuff that can be handy to abuse SeLoadDriverPriv
 
 ## Get Priv
 In order to get the privilege, we need to spawn a high integrity process
-..* Option 1: Load PowerShell or cmd.exe as Administrator (no Administrator group membership required!) - Lesson learned from Wh04m1
-..* Option 2: Use elevate.exe to spawn cmd (https://github.com/PaoJiao/elevate)
+- Option 1: Load PowerShell or cmd.exe as Administrator (no Administrator group membership required!) - Lesson learned from Wh04m1
+- Option 2: Use elevate.exe to spawn cmd (https://github.com/PaoJiao/elevate)
 ```
 elevate.exe cmd.exe
 ```
