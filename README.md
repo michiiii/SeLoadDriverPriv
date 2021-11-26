@@ -32,4 +32,8 @@ C:\Windows\Microsoft.NET\Framework64\v4.0.30319\csc.exe /t:exe /out:C:\pentest\S
 
 References
 
-[https://www.google.com](https://www.google.com)
+[https://github.com/PaoJiao/elevate](https://github.com/PaoJiao/elevate)
+[https://github.com/TarlogicSecurity/EoPLoadDriver/](https://github.com/TarlogicSecurity/EoPLoadDriver)
+[https://github.com/tandasat/ExploitCapcom](https://github.com/tandasat/ExploitCapcom)
+[https://github.com/FuzzySecurity/Capcom-Rootkit](https://github.com/FuzzySecurity/Capcom-Rootkit)
+
